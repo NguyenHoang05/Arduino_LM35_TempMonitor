@@ -69,7 +69,11 @@ Arduino_LM35_TempMonitor/
 ├── libs/
 ├── pc_app/
 └── simulation/
-Thành viên nhóm:
+
+## Tác giả
+[Hồ Nguyễn Hoàng](https://NguyenHoang05.github.io) - Sinh viên PTIT
+
+## Thành viên nhóm:
 
 Hồ Nguyễn Hoàng - N23DCCI026 - D23CQCI01-N
 Lý Việt Linh - N23CCCI039 - D23CQCI01-N
